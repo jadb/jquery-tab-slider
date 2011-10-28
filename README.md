@@ -1,4 +1,4 @@
-# jQuery Tab Slider
+# jQuery Tab Slider ![Project status](http://stillmaintained.com/jadb/jquery-tab-slider.png)
 
 Allows you to easily reproduce the slide-in kind of effect used for login/feedback boxes on various web applications.
 
